@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: : "Muli",sans-serif;;
+}
+
+a {
+  text-decoration: none;
+}
+input {
+  width:400px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:20px;
+  font-size:18px;
+  border:1px solid #dee7ec;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(http://graphicburger.com/preview/html-templates/outline/images/bg_2.jpg);
+  background-size: cover;
+  color:  white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+   font-family:Myriad Pro;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  margin-bottom: 3px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.btn-primary {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}
+.fa {
+  margin-right :5px;
+}
+
+
