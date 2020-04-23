@@ -6,30 +6,32 @@
   }
 
   .subscribe{
-    width: 100%;
+    width: 50%;
   }
 
   .contact-form{
     width:100%;
   }
    .button_cont{
-    width:100%;
+    width:50%;
   }
 }
 
 @media all and (max-width: 670px) {
 
   .subscribe {
-    width: 100%;
+    width: 50%;
   }
   .button_cont{
-    width:100%;
+    width:50%;
   }
+  
   .contact-form{
     width:100%;
   }
   .top-wrapper {
     text-align: left;
+    padding-top:130px;
   }
   
   .top-wrapper h1 {
