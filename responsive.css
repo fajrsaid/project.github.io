@@ -20,10 +20,10 @@
 @media all and (max-width: 670px) {
 
   .subscribe {
-    width: 75%;
+    width: 100%;
   }
   .button_cont{
-    width:75%;
+    width:100%;
   }
   
   .contact-form{
